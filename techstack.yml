@@ -2,7 +2,7 @@ repo_name: divomen/docker-openvpn
 report_id: c3dbfd72135749227ae69672b71916dc
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-04T14:57:28+00:00'
+timestamp: '2024-01-05T09:23:09+00:00'
 requested_by: kylemanna
 provider: github
 branch: master
